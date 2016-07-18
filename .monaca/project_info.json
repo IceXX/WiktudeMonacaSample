@@ -9,12 +9,5 @@
     "external_plugins": [
         "cordova-plugin-whitelist@1.0.0",
         "cordova-plugin-splashscreen@2.1.0"
-    ],
-    "title-ja": "Wikitude on Monaca",
-    "title-en": "",
-    "description-ja": "",
-    "description-en": "",
-    "category": "User Template",
-    "platform": [],
-    "name": "generated-1463549230-573beeb87e2193c85135cc48"
+    ]
 }
